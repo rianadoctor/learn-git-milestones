@@ -316,7 +316,7 @@ Now that we have basic Git commands out of the way use Git to create and turn in
 Item # | Description | Completed
 --- | --- | ---
 4a | 1st Favorite emoji | 😹
-4b | Link to `commit #1 from Github.com` | [commit #1 from Github.com](https://github.com/rianadoctor/learn-git-milestones/blob/3811dc1a44cf274d6399fcf4682fd4874d2a08ff/README.md)
+4b | Link to `commit #1 from Github.com` | [commit #1 from Github.com](https://github.com/rianadoctor/learn-git-milestones/commit/3811dc1a44cf274d6399fcf4682fd4874d2a08ff?diff=split)
 4c | Link to markdown tables docs |
 4d | What does `log` do? |
 5a | 2nd Favorite emoji |
