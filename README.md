@@ -321,7 +321,7 @@ Item # | Description | Completed
 4d | What does `log` do? | The log command displays snapshots of what has been committed. This log command only operates on the command history. 
 5a | 2nd Favorite emoji | 😸
 5b | Link to `commit #2 from Github Desktop` | [commit #2 from Github.com](https://github.com/rianadoctor/learn-git-milestones/commit/57ded8680bb21a6e8470e69254e0264725107a2a)
-6a | Full path to your working directory |
+6a | Full path to your working directory | /Users/doctor/Documents/GitHub/learn-git-milestones
 6b | Link to `commit #3 from CLI` |
 7 | 3rd Favorite emoji |
 8 | Link to `commit #4 from VS Code` |
