@@ -325,8 +325,8 @@ Item # | Description | Completed
 6b | Link to `commit #3 from CLI` | [commit #3 from CLI](https://github.com/rianadoctor/learn-git-milestones/commit/392889980debdbbc5dffb4201df6842bd090989e)
 7 | 3rd Favorite emoji | 😜
 8 | Link to `commit #4 from VS Code` | [commit #4 from VS Code](https://github.com/rianadoctor/learn-git-milestones/commit/e3746e020c28940bfe10c8b4479d9617ec872d5e)
-9a | Link to `first-website` github.com repo page |
-9a | Link to `first-website` github.io "project site" |
+9a | Link to `first-website` github.com repo page | [Repo Page](https://github.com/rianadoctor/first-website)
+9a | Link to `first-website` github.io "project site" | [Project Site](https://rianadoctor.github.io/first-website/)
 
 
 
