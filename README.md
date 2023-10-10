@@ -322,7 +322,7 @@ Item # | Description | Completed
 5a | 2nd Favorite emoji | 😸
 5b | Link to `commit #2 from Github Desktop` | [commit #2 from Github.com](https://github.com/rianadoctor/learn-git-milestones/commit/57ded8680bb21a6e8470e69254e0264725107a2a)
 6a | Full path to your working directory | /Users/doctor/Documents/GitHub/learn-git-milestones
-6b | Link to `commit #3 from CLI` |
+6b | Link to `commit #3 from CLI` | [commit #3 from CLI](https://github.com/rianadoctor/learn-git-milestones/commit/392889980debdbbc5dffb4201df6842bd090989e)
 7 | 3rd Favorite emoji |
 8 | Link to `commit #4 from VS Code` |
 9a | Link to `first-website` github.com repo page |
