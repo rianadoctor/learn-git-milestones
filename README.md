@@ -315,7 +315,7 @@ Now that we have basic Git commands out of the way use Git to create and turn in
 
 Item # | Description | Completed
 --- | --- | ---
-4a | 1st Favorite emoji | ADD_TEXT_TO_THIS_COLUMN
+4a | 1st Favorite emoji | 😹
 4b | Link to `commit #1 from Github.com` |
 4c | Link to markdown tables docs |
 4d | What does `log` do? |
