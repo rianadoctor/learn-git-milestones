@@ -281,7 +281,7 @@ Row | Step | Description | Completed
 5 | 4-1 | 2nd Favorite emoji | 🐕
 6 | 4-2 | Link to `commit #2 from Github Desktop` | [commit #2 from Github.com](https://github.com/omundy/learn-git-milestones/commit/37cb80c99be97be8cacdff24e59999420d67776a)
 7 | 5-1 | Full path to your working directory | /Users/doctor/Desktop/GameDev/learn-git-milestones 
-8 | 5-2 | Link to `commit #3 from CLI` |
+8 | 5-2 | Link to `commit #3 from CLI` | [commit #3 from CLI](https://github.com/omundy/learn-git-milestones/commit/aa25e2c824c55f8328e7f0bb3fd1f1d02e7390a1)
 9 | 6-1 | Link to `first-website` github.com repo page |
 10 | 7-1 | Link to `first-website` github.io "project site" |
 
