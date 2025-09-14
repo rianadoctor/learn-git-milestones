@@ -275,12 +275,12 @@ Now that we have basic Git commands out of the way use Git to create and turn in
 Row | Step | Description | Completed
 --- | --- | --- | ---
 1 | 3-1 | 1st Favorite emoji | 😻
-2 | 3-2 | Link to `commit #1 from Github.com` | [commit #1 from Github.com](https://github.com/omundy/learn-git-milestones/compare/main...rianadoctor:learn-git-milestones:main)
+2 | 3-2 | Link to `commit #1 from Github.com` | [commit #1 from Github.com](https://github.com/omundy/learn-git-milestones/commit/814976a379fa485268879b53d8f17e22fe2d999f)
 3 | 3-3 | Link to markdown tables docs | [Markdown Tables](https://www.markdownguide.org/extended-syntax/#tables)
 4 | 3-4 | What does `log` do? | `git log` shows the commit history of the repository, including commit hashes, messages, authors, and timestamps.
 5 | 4-1 | 2nd Favorite emoji | 🐕
-6 | 4-2 | Link to `commit #2 from Github Desktop` |
-7 | 5-1 | Full path to your working directory |
+6 | 4-2 | Link to `commit #2 from Github Desktop` | [commit #2 from Github.com](https://github.com/omundy/learn-git-milestones/commit/37cb80c99be97be8cacdff24e59999420d67776a)
+7 | 5-1 | Full path to your working directory | /Users/doctor/Desktop/GameDev/learn-git-milestones 
 8 | 5-2 | Link to `commit #3 from CLI` |
 9 | 6-1 | Link to `first-website` github.com repo page |
 10 | 7-1 | Link to `first-website` github.io "project site" |
