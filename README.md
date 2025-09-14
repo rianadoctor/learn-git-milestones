@@ -364,9 +364,9 @@ Forking, branching, pull requests
 
 Row | Step | Description | Completed
 --- | --- | --- | ---
-11 | 8-1 | What is in Owen's dev branch? | 
-12 | 9-1 | Link to your new branch on github.com | 
-13 | 10-1 | Link to your network graph | 
+11 | 8-1 | What is in Owen's dev branch? | I got Rickrolled
+12 | 9-1 | Link to your new branch on github.com | [riana-changes branch](https://github.com/rianadoctor/learn-git-milestones/tree/riana-changes)
+13 | 10-1 | Link to your network graph | [network graph](https://github.com/rianadoctor/first-website/network)
 14 | 11-1 | Link to the PR you made on a partner's github.com repo | 
 
 
